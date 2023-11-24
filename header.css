@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
 
+
 :root{
 	--Light-Blue:#3ee9e5;
 	--Dark-Blue:#093f68;
@@ -8,7 +9,7 @@
 	--Darker-Blue:#080c20;
 	--Rose:#ff2965;
 }
-/* =======+================================================ */
+/* ======================================================= */
 body{
 	margin: 0px;
 	overflow-x: hidden;
@@ -35,6 +36,14 @@ button{
 }
 .light-blue{
 	color: var(--Light-Blue);
+}
+
+.wrapper{
+	padding-bottom: 20px;
+}
+
+.content{
+	padding-bottom: 20px;
 }
 /* ======================================================= */
 h1{
@@ -548,24 +557,14 @@ a#scroll-btn:after {
 	min-width: calc(100% + 220px);
 	height: 100%;
 }
-.error{
-	opacity: 0;
-	font-family: 'Manrope', sans-serif;
-	font-size: 12px;
-	font-weight: 500;
-	color: var(--Rose);
-	line-height: 2.08;
-	margin-left: 18px;
-	margin-top: 4px;
-	transition: .3s;
-	display: none;
-}
-.none{
-  opacity: 1;
+.error {
+    color: #FF2965;
+    font-size: 14px;
+    margin-top: 5px; /* Adjust the margin as needed */
 }
 
-.outlineinput{
-  border-color:#FF2965;
+.none {
+    display: none;
 }
 
 @media (max-width:900px){
@@ -600,3 +599,6 @@ a#scroll-btn:after {
 		height: auto;
 	}
 }
+
+
+

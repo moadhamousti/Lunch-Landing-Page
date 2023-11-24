@@ -84,8 +84,8 @@ if (ScrollTrigger.isTouch !== 1) {
 	let itemF = gsap.utils.toArray('#footer')
 
 	itemF.forEach(item => {
-		gsap.fromTo(item, { opacity: 0, x: -40 }, {
-			opacity: 1, x: 0,
+		gsap.fromTo(item, { opacity: 1, x: -40 }, {
+			opacity: 1, x: 1,
 			scrollTrigger: {
 				trigger: item,
 				start: '-500',

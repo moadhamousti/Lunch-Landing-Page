@@ -2,7 +2,6 @@
 
 ### Features 🔥 :
 
-
 ☑️ - Responsive.
 
 ☑️ - Smooth Scrolling.

@@ -27,9 +27,11 @@
   <img width="275" alt="MOBILE" src="https://github.com/moadhamousti/Lunch-Landing-Page/assets/118165767/76b1f81f-69e8-4f02-9fca-fdbf2fa7be70">
 </p>
 
+
 ### Video 📹 :
 
-https://github.com/moadhamousti/Single-Page-Design-Portfolio/assets/118165767/8f56645e-0448-402a-8286-70b209399de7
+https://github.com/moadhamousti/Lunch-Landing-Page/assets/118165767/00d288d8-37f4-4975-b24e-d94cbd77d9ed
+
 
 
 
